@@ -4,7 +4,7 @@
 
 **Team:** Harshal Chavan & Team  
 **Demo Video (unlisted):** https://youtu.be/YOUR_DEMO_LINK *(replace with your unlisted YouTube link)*  
-**Live (staging):** https://staging.civicstack.example.com *(replace when ready)*  
+**Live (staging):** staging coming Mar 27  
 **Repo:** https://github.com/Harshtech34/CivicStack
 
 Built for :contentReference[oaicite:0]{index=0} in partnership with :contentReference[oaicite:1]{index=1}.
